@@ -13,5 +13,8 @@
     "real-time"
   ],
   "author": "@dlacroixe",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies":{
+    "socket.io":"*"
+}
 }
